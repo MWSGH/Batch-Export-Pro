@@ -1,0 +1,7 @@
+* [Export Tools](page01_ExportTools.md)
+  * [Export Settings](page05_ExportSettings.md)
+* [Object Data](page20_ObjectData.md)
+  * [Export Name](page21_ExportName.md)
+  * [Offset Location](page22_OffsetLocation.md)
+  * [Color Palette](page23_ColorPalette.md)
+* [Copyright](page_copyright.md)
