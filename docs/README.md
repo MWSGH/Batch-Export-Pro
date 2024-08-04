@@ -5,7 +5,8 @@ Created based on my personal and professional experience, knowledge and needs.
 
 You can read about the features and purchase a copy on the [Blender Market](https://blendermarket.com/batch-export-pro).
 
-Feel free to leave suggestions or ask any questions! 
+Batch Export Pro n-panel is available only in Blender Object Mode.  
+You have to select Objects before exporting. Exporting of a whole scene is not available.  
 
 
 ## Requirements  
