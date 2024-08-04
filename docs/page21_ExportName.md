@@ -1,7 +1,6 @@
 # Export Name  
   
 ## Export Operations  
-Addon currently exports only to FBX format files.  
 These operators facilitate the export process and provide feedback on the export status:  
   
 **Mesh Export Operator**  
