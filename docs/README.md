@@ -35,11 +35,7 @@ Once installed, Blender should automatically enable Batch Export Pro. If that is
 
 # Support
 To get help with a problem or a question that the documentation isn't answering:  
-
-  
 High priority support is available through a message from your Blender Market inbox once you've purchased a copy.  
-You can create a new issue on MWS3D-Tools GitHub page.  
-Or reach out via email at mateuszwalentyslupski@gmail.com.  
-
-
+You can create a new issue on Batch Export Pro GitHub page.  
+  
 Please provide as much information and detail as possible, such as steps to reproduce the issue, what behavior you expected to see vs what you actually saw, screenshots, and so on. Also, if possible, please consider sending us the .blend file.  
